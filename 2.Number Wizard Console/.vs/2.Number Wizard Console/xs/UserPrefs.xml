@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DA80C50F-9CEF-7CF1-B69E-75CC6DFA0E67}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NumberWizard.cs">
+    <Files>
+      <File FileName="Assets/NumberWizard.cs" Line="34" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c21b0a3b-d818-4247-b971-fe3e145c2447" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
